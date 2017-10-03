@@ -470,7 +470,7 @@ export class Select extends BaseInput<any> implements OnDestroy {
   }
 
   /**
-   * TODO: REMOVE THIS
+   * TODO: REMOVE THIS id:31 gh:32
    * @hidden
    */
   _inputChangeEvent(): any {
